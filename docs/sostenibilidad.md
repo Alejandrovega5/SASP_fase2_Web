@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# Sostenibilidad en Tecnología
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## ¿Qué es la sostenibilidad?
+La sostenibilidad consiste en **usar los recursos de manera responsable** para que las generaciones futuras también puedan satisfacer sus necesidades. En tecnología, significa crear software y sistemas que **minimicen el impacto ambiental**, respeten la sociedad y sean económicamente viables.
 
-## Commands
+## Dimensiones de la sostenibilidad
+- **Ambiental**: reducir contaminación y uso de recursos.  
+- **Social**: mejorar calidad de vida y accesibilidad.  
+- **Económica**: eficiencia y responsabilidad en los proyectos tecnológicos.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Aspectos ASG en empresas tecnológicas
+Los aspectos **ambientales, sociales y de gobernanza (ASG)** ayudan a las empresas a medir su impacto y cumplir con normas internacionales, además de interesar a inversores y usuarios.
 
-## Project layout
+## Marcos internacionales
+- **Agenda 2030** y los **ODS**: objetivos globales para un mundo más justo y sostenible.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## ODS relacionados con la tecnología
+| ODS | Relación con la tecnología |
+|-----|----------------------------|
+| ODS 3 – Salud y bienestar | Apps de salud, telemedicina, AI para diagnósticos |
+| ODS 7 – Energía asequible y no contaminante | IoT y software para eficiencia energética |
+| ODS 12 – Producción y consumo responsables | Optimización de recursos y reducción de residuos electrónicos |
+
+![Círculo ODS 03](../assets/ods-circle.png)

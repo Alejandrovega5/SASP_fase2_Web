@@ -1,11 +1,9 @@
-# Reflexiones sobre el Desarrollo Sostenible
+# Reflexión personal
 
-## 1. Pensamientos Personales
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at suscipit lacus. Aenean quis nunc sit amet purus sagittis cursus. Duis venenatis urna at massa convallis, nec hendrerit nunc porta.
+Como programador o técnico, tengo la responsabilidad de **reducir el impacto ambiental de la tecnología**, creando software eficiente y promoviendo buenas prácticas. Puedo usar **teletrabajo, optimización de código y apps de control de consumo** para ayudar.  
 
-## 2. Lecciones Aprendidas
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempor, nunc id gravida cursus, purus eros finibus velit, in luctus erat ligula et elit. Integer in lectus non justo laoreet dignissim.
+Las empresas tecnológicas tienen un papel clave en la sostenibilidad global, ya que pueden invertir en innovación responsable y ofrecer soluciones que mejoren la vida de las personas. Sin embargo, todavía cuesta aplicar políticas sostenibles en el sector TIC por los costes iniciales y la falta de conciencia.  
 
-## 3. Futuras Consideraciones
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum mi nec sem vestibulum, vel suscipit elit volutpat. Nulla facilisi. Donec nec urna nec sapien volutpat varius.
+Personalmente, me comprometo a **aplicar buenas prácticas de desarrollo, reutilizar recursos y promover la educación en sostenibilidad digital** en mis proyectos.
+
 
